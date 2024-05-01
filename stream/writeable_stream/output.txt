@@ -1,0 +1,2 @@
+ini merupakan teks baris pertama!
+ini merupakan teks baris kedua!
